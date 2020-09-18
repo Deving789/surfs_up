@@ -8,8 +8,12 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 # Results
 
  -- In June we had a total count of 1700, mean of 74.9, min of 64.0 and max of 85.0
+
+<img width="338" alt="june_temps" src="https://user-images.githubusercontent.com/67278193/93652589-8b689200-f9e3-11ea-97a2-c3ea53e2da1e.png">
  
  -- In December we had a total count of 1517, mean of 71.0, min of 56.0 and max of 83.0
+ 
+ <img width="397" alt="Screen Shot 2020-09-18 at 7 16 24 PM" src="https://user-images.githubusercontent.com/67278193/93652592-8d325580-f9e3-11ea-8c20-e3b1fe9c0393.png">
  
  -- Standard deviation is 3.25 in June and 3.75 -- making a .5 difference in the two different seasons
 
